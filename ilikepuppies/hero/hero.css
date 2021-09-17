@@ -1,0 +1,16 @@
+.landing {
+    width: 100%;
+    filter: blur(5px);
+
+}
+
+.logo {
+    text-align: center;
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+
+button {
+    text-align: center;
+}

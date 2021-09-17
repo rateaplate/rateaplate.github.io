@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: grey;
+    font-size: 16px;
+    color: black;
+}
+
+#login-box {
+    position: relative;
+    margin: 5% auto;
+    width: 600px;
+    height: 400px;
+    background: white;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 4);
+}
+
+.left {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 400px;
+    width: 300px;
+    padding: 40px;
+    box-sizing: border-box;
+
+}
+
+.right {
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 0 2px 2px 0;
+
+}
+
+h1{
+    margin: 0 0 20px 0;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+input[type="text"],
+input[type="password"] {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 32px;
+    border-bottom: 1px solid#aaa;
+    font-weight: 400;
+    font-size: 15px;
+
+
+}
+    
+input[type="submit"] {
+    margin-top: 28px;
+    width: 120px;
+    height: 32px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: white;
+    background: green;
+}
+
+    .or {
+        position: absolute;
+        top: 180px;
+        left: 280px;
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        line-height: 40px;
+        background: white;
+        border-radius: 50%;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 4);
+
+    }
+
+    .right .loginwith {
+        display: block;
+        margin-bottom: 40px;
+        text-align: center;
+        
+
+    }
+        
+
+    ]
+
+
